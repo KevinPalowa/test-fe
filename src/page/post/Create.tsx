@@ -57,7 +57,7 @@ export default function Create() {
     onSubmit(data.title, data.body);
   };
   return (
-    <Box borderWidth="1px" borderRadius="md" p={4}>
+    <Box borderWidth="1px" borderRadius="md" p={4} maxW="900px" mx="auto">
       <form onSubmit={handleSubmit(handleFormSubmit)}>
         <FormControl id="title" mb={4} isInvalid={!!errors.title}>
           <FormLabel>Title</FormLabel>
