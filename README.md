@@ -12,6 +12,7 @@ This repository contains a CRUD (Create, Read, Update, Delete) web application b
 
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/): A fake REST API for testing and prototyping.
 - [Vite](https://vitejs.dev/): A fast development build tool that supports React and other modern web technologies.
+- [Typescript](https://www.typescriptlang.org/): TypeScript is JavaScript with syntax for types..
 - [React](https://react.dev/): A JavaScript library for building user interfaces.
 - [Chakra](https://chakra-ui.com/) UI: A simple, modular, and accessible UI component library for React.
 - [React Hook Form](https://www.react-hook-form.com/): A flexible and performant form library for React.
